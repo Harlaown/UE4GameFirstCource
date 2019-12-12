@@ -1,6 +1,6 @@
 {
 	"FileVersion": 3,
-	"EngineAssociation": "4.23",
+	"EngineAssociation": "4.24",
 	"Category": "",
 	"Description": "",
 	"Plugins": [
@@ -29,6 +29,10 @@
 		},
 		{
 			"Name": "ChaosNiagara",
+			"Enabled": true
+		},
+		{
+			"Name": "NiagaraExtras",
 			"Enabled": true
 		}
 	]
